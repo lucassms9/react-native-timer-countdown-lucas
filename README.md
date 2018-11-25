@@ -8,13 +8,7 @@ A customizable countdown component for React Native (iOS and Android).
 ## Install
 
 ```sh
-npm install --save react-native-timer-countdown
-```
-
-or
-
-```sh
-yarn add react-native-timer-countdown
+npm install --save react-native-timer-countdown-lucas
 ```
 
 ## Usage
@@ -110,7 +104,7 @@ const styles = StyleSheet.create({
 
 ## Author
 
-Noel Yoo
+Noel Yoo 
 
 ## License
 
